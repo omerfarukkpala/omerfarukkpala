@@ -24,20 +24,15 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-bottom: 5px;" /></a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="margin-bottom: 5px;" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-bottom: 5px;" /></
-  ## React Projelerim:
-
+  
+### Front-End Tarafında ki  Projelerim:
 - [Book Store - Kitap Dünyası](https://lnkd.in/dBtGM-4x)
 - [Trend Mağaza](https://lnkd.in/dm75S97W)
 - [Bursa Tarım Market](https://lnkd.in/dEfVWC62)
-
-### Front-End Tarafında ki Diğer Projelerim:
-
 - [Cars Model](https://lnkd.in/d-RrJgt6)
 - [Discover Vacation Rental](https://lnkd.in/drVehati)
 - [Genesis Project](https://lnkd.in/dQpM_7UF)
 - [Ledger](https://lnkd.in/diWvTTK7)
 
-### Projelerin Kaynak Kodları:
 
-- [GitHub Repository](https://lnkd.in/dF2MrKg5)
 
