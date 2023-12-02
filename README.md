@@ -29,8 +29,8 @@
 <h3 align="left">My Front-End Projects : </h3>
 
 - [Book Store - Kitap Dünyası](https://book-store-vert-five.vercel.app/) --> https://github.com/omerfarukkpala/Book-Store
-- [Trend Mağaza](https://store-project-zeta.vercel.app/)
-- [Bursa Tarım Market](https://tarim-market.vercel.app/)
+- [Trend Mağaza](https://store-project-zeta.vercel.app/) --> https://github.com/omerfarukkpala/StoreProject
+- [Bursa Tarım Market](https://tarim-market.vercel.app/) --> https://github.com/omerfarukkpala/BBB-React-Bootcamp
 - [Cars Model](https://cars-model-website.vercel.app/)
 - [Discover Vacation Rental](https://vacation-rental-inky.vercel.app/)
 - [Genesis Project](https://omerfarukkpala.github.io/)
