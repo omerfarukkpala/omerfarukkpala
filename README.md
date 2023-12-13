@@ -30,10 +30,11 @@
 
 - **[Book Store - Kitap Dünyası](https://book-store-vert-five.vercel.app/)**
   - [GitHub Repo](https://github.com/omerfarukkpala/Book-Store) --> https://github.com/omerfarukkpala/Book-Store
+  - - Explore the live version of the project [here](https://book-store-vert-five.vercel.app/).
 
 - **[Trend Store](https://store-project-zeta.vercel.app/)**
 - Check out the live version of the project [here](https://store-project-zeta.vercel.app/).
-- [GitHub Repo][Trend Store Repository](https://github.com/omerfarukkpala/StoreProject)
+- [Trend Store Repository]                                    -- > (https://github.com/omerfarukkpala/StoreProject)
 
 - **[Bursa Tarım Market](https://tarim-market.vercel.app/)**
   - [GitHub Repo](https://github.com/omerfarukkpala/BBB-React-Bootcamp)
