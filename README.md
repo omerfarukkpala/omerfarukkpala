@@ -29,7 +29,7 @@
 <h3 align="left">My Front-End Projects : </h3>
 
 - **[Book Store - Kitap Dünyası](https://book-store-vert-five.vercel.app/)**
-  - Explore the live version of the project [here](https://book-store-vert-five.vercel.app/). --> https://book-store-vert-five.vercel.ap
+  - Explore the live version of the project [here](https://book-store-vert-five.vercel.app/). --> https://book-store-vert-five.vercel.app
   - [GitHub Repo](https://github.com/omerfarukkpala/Book-Store) --> https://github.com/omerfarukkpala/Book-Store 
 
 - **[Trend Store](https://store-project-zeta.vercel.app/)**
