@@ -33,7 +33,7 @@
 
 - **[Trend Store](https://store-project-zeta.vercel.app/)**
 - Check out the live version of the project [here](https://store-project-zeta.vercel.app/).
-- [GitHub Repo] [Trend Store Repository](https://github.com/omerfarukkpala/StoreProject)
+- [GitHub Repo][Trend Store Repository](https://github.com/omerfarukkpala/StoreProject)
 
 - **[Bursa Tarım Market](https://tarim-market.vercel.app/)**
   - [GitHub Repo](https://github.com/omerfarukkpala/BBB-React-Bootcamp)
