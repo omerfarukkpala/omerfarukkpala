@@ -40,8 +40,9 @@
   - [GitHub Repo](https://github.com/omerfarukkpala/BBB-React-Bootcamp)
   - Explore the live version of the project [here](https://tarim-market.vercel.app/). --> https://tarim-market.vercel.app/
 
-
-- [Cars Model](https://cars-model-website.vercel.app/)
+- **[Cars Model](https://cars-model-website.vercel.app/)**
+- Live [Cars Model](https://cars-model-website.vercel.app/)
+- [GitHub Repo](https://github.com/omerfarukkpala/Cars-Model) -- >https://github.com/omerfarukkpala/Cars-Model
 - [Discover Vacation Rental](https://vacation-rental-inky.vercel.app/)
 - [Genesis Project](https://omerfarukkpala.github.io/)
 - [Ledger](https://welcome-apexledger.vercel.app/)
