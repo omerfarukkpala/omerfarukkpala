@@ -43,7 +43,8 @@
 - **[Cars Model](https://cars-model-website.vercel.app/)**
   - Live [Cars Model](https://cars-model-website.vercel.app/)
   - [GitHub Repo](https://github.com/omerfarukkpala/Cars-Model) -- >https://github.com/omerfarukkpala/Cars-Model
-- [Discover Vacation Rental](https://vacation-rental-inky.vercel.app/)
+**[Vacation Rental](https://vacation-rental-inky.vercel.app/)**
+  - Discover Vacation Rental -- > (https://vacation-rental-inky.vercel.app/)
 - [Genesis Project](https://omerfarukkpala.github.io/)
 - [Ledger](https://welcome-apexledger.vercel.app/)
 
