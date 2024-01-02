@@ -38,6 +38,7 @@
 
 - **[Bursa Tarım Market](https://tarim-market.vercel.app/)**
   - [GitHub Repo](https://github.com/omerfarukkpala/BBB-React-Bootcamp)
+  - Explore the live version of the project [here](https://tarim-market.vercel.app/). --> https://tarim-market.vercel.app/
 
 
 - [Cars Model](https://cars-model-website.vercel.app/)
