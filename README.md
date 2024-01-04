@@ -27,6 +27,7 @@
 </p>
 
 <h3 align="left">My Front-End Projects : </h3>
+<a href="https://book-store-vert-five.vercel.app/" style="color: yellow; font-weight: bold;">Book Store - Kitap Dünyası</a>
 
 - **[Book Store - Kitap Dünyası](https://book-store-vert-five.vercel.app/)**
   - Explore the live version of the project [here](https://book-store-vert-five.vercel.app/). --> https://book-store-vert-five.vercel.app
