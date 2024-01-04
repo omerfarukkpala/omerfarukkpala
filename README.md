@@ -45,8 +45,9 @@
   - [GitHub Repo](https://github.com/omerfarukkpala/Cars-Model) -- >https://github.com/omerfarukkpala/Cars-Model
 - **[Vacation Rental](https://vacation-rental-inky.vercel.app/)**
   - Discover Vacation Rental Live -- > (https://vacation-rental-inky.vercel.app/)
+    
 - **[Genesis Project](https://omerfarukkpala.github.io/)**
-  -Genesis Project Live -- > (https://omerfarukkpala.github.io/)
+  - Genesis Project Live -- > (https://omerfarukkpala.github.io/)
 - [Ledger](https://welcome-apexledger.vercel.app/)
 
 
