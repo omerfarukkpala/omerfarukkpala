@@ -48,7 +48,7 @@
     
 - **[Genesis Project](https://omerfarukkpala.github.io/)**
   - Genesis Github Preview -- > ([https://omerfarukkpala.github.io/](https://github.com/omerfarukkpala/omerfarukkpala.github.io))
-  - Explore the live version of the project [here](https://github.com/omerfarukkpala/omerfarukkpala.github.io). --> https://github.com/omerfarukkpala/omerfarukkpala.github.io
+  - Explore the live version of the project [here](https://omerfarukkpala.github.io/). --> https://omerfarukkpala.github.io/
 
 - **[Ledger](https://welcome-apexledger.vercel.app/)**
   - Genesis Project Live Ledger -- >(https://welcome-apexledger.vercel.app/)
