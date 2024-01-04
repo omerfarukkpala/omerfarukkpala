@@ -48,7 +48,10 @@
     
 - **[Genesis Project](https://omerfarukkpala.github.io/)**
   - Genesis Project Live -- > (https://omerfarukkpala.github.io/)
-- [Ledger](https://welcome-apexledger.vercel.app/)
+  - Explore the live version of the project [here](https://github.com/omerfarukkpala/omerfarukkpala.github.io). --> https://tarim-market.vercel.app/
+
+- **[Ledger](https://welcome-apexledger.vercel.app/)**
+  - Genesis Project Live Ledger -- >(https://welcome-apexledger.vercel.app/)
 
 
 
