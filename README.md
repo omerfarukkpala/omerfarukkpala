@@ -51,7 +51,7 @@
   - Explore the live version of the project [here](https://omerfarukkpala.github.io/). --> https://omerfarukkpala.github.io/
 
 - **[Ledger](https://welcome-apexledger.vercel.app/)**
-  - Genesis Project Live Ledger -- >(https://welcome-apexledger.vercel.app/)
+  - Ledger Project Live Ledger -- >(https://welcome-apexledger.vercel.app/)
 
 
 
