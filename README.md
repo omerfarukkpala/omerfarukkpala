@@ -2,7 +2,7 @@
     <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
     <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Developer+%3AC%23+%7C+JS+%7C+.NET+Core+%7C+SQL+%7C+React" alt="Typing SVG" /></a> </h3>
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Developer+%3AC%23+%7C+JS+%7C+.NET+Core+%7C+SQL+%7C+React)](https://git.io/typing-svg)
+
 <h3 align="left"> <img src="https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=700&size=30&pause=750&color=007bff&width=435&lines=Connect+with+me :" alt="Typing SVG">
 <p align="left">
   <a href="https://linkedin.com/in/omerfarukpala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omerfarukpala" height="30" width="40" style="margin-bottom: 5px;" /></a>
