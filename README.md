@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
 <h3 align="center">Developer: JS | C# | .NET Core | React | SQL</h3>
-
+<h3 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&pause=1000&color=F70404&width=435&lines=Developer: JS | C# | .NET Core | React | SQL  )](https://git.io/typing-svg) </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/omerfarukpala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omerfarukpala" height="30" width="40" style="margin-bottom: 5px;" /></a>
