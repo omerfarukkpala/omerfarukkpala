@@ -1,9 +1,9 @@
 <div>
 <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
-<h3 align="center">Developer: JS | C# | .NET Core | React | SQL</h3>
+<h3 align="center">Developer</h3>
 <h2 align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&pause=1000&color=007bff&width=435&lines=.Net+Developer  )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&pause=1000&color=007bff&width=435&lines=Developer  )](https://git.io/typing-svg) : C# | JS | .NET Core | SQL | React
 
 </h3>
 </div>
