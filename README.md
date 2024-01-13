@@ -1,12 +1,12 @@
 <div>
-<h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
-<h3 align="center">Developer</h3>
-<h2 align="center">
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=700&size=30&pause=750&color=007bff&width=435&lines=Developer: C# | JS | .NET Core | SQL | React  )](https://git.io/typing-svg) 
-
-</h3>
+    <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
+    <h3 align="center">Developer :C# | JS | .NET Core | SQL | React </h3>
+    <h3 align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=700&size=30&pause=750&color=007bff&width=435&lines=Developer:" alt="Typing SVG">
+        <span>:C# | JS | .NET Core | SQL | React</span>
+    </h3>
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>
