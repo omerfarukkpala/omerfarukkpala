@@ -2,8 +2,9 @@
     <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
     <h3 align="center">
         <img src="https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=700&size=30&pause=750&color=007bff&width=435&lines=Developer:" alt="Typing SVG">
-       <br /> :C# | JS | .NET Core | SQL | React</span>
+       <br /> 
     </h3>
+    C# | JS | .NET Core | SQL | React
 </div>
 
 
