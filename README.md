@@ -44,6 +44,7 @@
   - Live [Cars Model](https://cars-model-website.vercel.app/)
   - [GitHub Repo](https://github.com/omerfarukkpala/Cars-Model) -- >https://github.com/omerfarukkpala/Cars-Model
 - **[Vacation Rental](https://vacation-rental-inky.vercel.app/)**
+  - Vacation Rental Github Preview -- >(https://github.com/omerfarukkpala/Vacation-Rental)
   - Discover Vacation Rental Live -- > (https://vacation-rental-inky.vercel.app/)
     
 - **[Genesis Project](https://omerfarukkpala.github.io/)**
