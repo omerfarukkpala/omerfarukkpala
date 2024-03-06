@@ -1,5 +1,5 @@
  <div>        
-    <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>            
+    <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>             
     <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=750&color=007BFF&random=false&width=435&lines=C%23+%7C+JS+%7C.NET+Core+%7CSQL%7C+React;Software+Developer" alt="Typing SVG" /></a></a> </h3>
 </div>
 <h3 align="left"> <img src="https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=700&size=30&pause=750&color=007bff&width=435&lines=Connect+with+me :" alt="Typing SVG">
