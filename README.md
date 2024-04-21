@@ -58,13 +58,14 @@ https://github.com/omerfarukkpala/Cars-Model/assets/101570820/0bf30da4-1739-4c14
 
 - **[Ledger](https://welcome-apexledger.vercel.app/)**
   - Ledger Project Live Ledger -- >(https://welcome-apexledger.vercel.app/)
-
    
  <h3 align="left">My Full-Stack Projects : </h3>
 
 - **[Asp.Net Mvc ile Teknoji Sözlük Uygulaması Geliştirme]**
   - Teknoji Sözlük Github Preview -- >(https://github.com/omerfarukkpala/MvcBlogProject)
-  
+
+- **[Asp.Net Mvc ile Teknoji Sözlük Uygulaması Geliştirme](https://github.com/omerfarukkpala/MvcBlogProject)**
+  - Teknoji Sözlük Github Preview  -- >(https://github.com/omerfarukkpala/MvcBlogProject)
 
 https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/ac124791-030b-467a-bb8c-d3ca18776a41
 
