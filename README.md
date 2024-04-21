@@ -27,7 +27,6 @@
 </p>
 
 <h3 align="left">My Front-End Projects : </h3>
-    https://github.com/omerfarukkpala/CvProject/assets/101570820/1362b7c2-4652-42bc-bc23-7454c2106e59
 
 - **[Book Store - Kitap Dünyası](https://book-store-vert-five.vercel.app/)**
   - Explore the live version of the project [here](https://book-store-vert-five.vercel.app/). --> https://book-store-vert-five.vercel.app
@@ -54,6 +53,14 @@
 
 - **[Ledger](https://welcome-apexledger.vercel.app/)**
   - Ledger Project Live Ledger -- >(https://welcome-apexledger.vercel.app/)
+
+   
+ 
+ 
+https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/ac124791-030b-467a-bb8c-d3ca18776a41
+
+
+
 
 
 
