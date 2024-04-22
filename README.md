@@ -46,8 +46,6 @@
     
 https://github.com/omerfarukkpala/Cars-Model/assets/101570820/0bf30da4-1739-4c14-b0c4-4a952a1240e7
 
-
-
 - **[Vacation Rental](https://vacation-rental-inky.vercel.app/)**
   - Vacation Rental Github Preview -- >(https://github.com/omerfarukkpala/Vacation-Rental)
   - Discover Vacation Rental Live -- > (https://vacation-rental-inky.vercel.app/)
@@ -73,9 +71,11 @@ https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/ac124791-030b-
 
 https://github.com/omerfarukkpala/CvProject/assets/101570820/1362b7c2-4652-42bc-bc23-7454c2106e59
 
+- **[Asp.Net Mvc ile Katmanlı Mimaride Blog Projesi](https://github.com/omerfarukkpala/MvcBlogProject)**
+  
+  - Asp.Net Mvc ile Katmanlı Mimaride Blog Projesi -- >(https://github.com/omerfarukkpala/MvcBlogProject)
 
-MVC ile Dinamik Cv Sitesi
-
+https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/01ae95f9-eac5-47bb-9eac-8226c8f464a2
 
 
 
