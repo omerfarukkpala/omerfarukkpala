@@ -68,6 +68,12 @@ https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/ebe13537-78ef-
   - Genesis Github Preview -- > ([https://omerfarukkpala.github.io/](https://github.com/omerfarukkpala/omerfarukkpala.github.io))
   - Explore the live version of the project [here](https://omerfarukkpala.github.io/). --> https://omerfarukkpala.github.io/
 
+    
+
+https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/e155acfb-2ba7-4f4d-83ab-dba4eb6cfff4
+
+
+
 - **[Ledger](https://welcome-apexledger.vercel.app/)**
   - Ledger Project Live Ledger -- >(https://welcome-apexledger.vercel.app/)
    
