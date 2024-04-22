@@ -30,7 +30,13 @@
 
 - **[Book Store - Kitap Dünyası](https://book-store-vert-five.vercel.app/)**
   - Explore the live version of the project [here](https://book-store-vert-five.vercel.app/). --> https://book-store-vert-five.vercel.app
-  - [GitHub Repo](https://github.com/omerfarukkpala/Book-Store) --> https://github.com/omerfarukkpala/Book-Store 
+  - [GitHub Repo](https://github.com/omerfarukkpala/Book-Store) --> https://github.com/omerfarukkpala/Book-Store
+
+
+https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/64faa504-fab2-45cc-8806-a5a6eb3457d7
+
+
+    
 
 - **[Trend Store](https://store-project-zeta.vercel.app/)**
   - Check out the live version of the project [here](https://store-project-zeta.vercel.app/).
