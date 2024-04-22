@@ -42,6 +42,12 @@ https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/64faa504-fab2-
   - Check out the live version of the project [here](https://store-project-zeta.vercel.app/).
   - Trend Store Repository                                    -- > (https://github.com/omerfarukkpala/StoreProject)
 
+
+https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/3501613d-fcd2-4cb1-ad11-2d882a6da638
+
+
+
+
 - **[Bursa Tarım Market](https://tarim-market.vercel.app/)**
   - [GitHub Repo](https://github.com/omerfarukkpala/BBB-React-Bootcamp)
   - Explore the live version of the project [here](https://tarim-market.vercel.app/). --> https://tarim-market.vercel.app/
