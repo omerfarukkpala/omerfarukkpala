@@ -67,7 +67,14 @@ https://github.com/omerfarukkpala/Cars-Model/assets/101570820/0bf30da4-1739-4c14
 
 https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/ac124791-030b-467a-bb8c-d3ca18776a41
 
+- **[Asp.Net Mvc ile Teknoji Sözlük Uygulaması Geliştirme](https://github.com/omerfarukkpala/MvcBlogProject)**
+  
+  - MVC ile Dinamik Cv Sitesi -- >(https://github.com/omerfarukkpala/CvProject)
 
+https://github.com/omerfarukkpala/CvProject/assets/101570820/1362b7c2-4652-42bc-bc23-7454c2106e59
+
+
+MVC ile Dinamik Cv Sitesi
 
 
 
