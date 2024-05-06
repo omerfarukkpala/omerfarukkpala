@@ -84,6 +84,13 @@ https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/639a8623-f5c5-
 
    
  <h3 align="left">My Full-Stack Projects : </h3>
+ 
+- **[Asp.Net Core Portfolio Sitesi](https://github.com/omerfarukkpala/OFPortfolio)**
+  
+  - Asp.Net Core Portfolio Sitesi -- >(https://github.com/omerfarukkpala/OFPortfolio)
+
+https://github.com/omerfarukkpala/OFPortfolio/assets/101570820/b57f85f0-c802-4081-bbbb-e6f6cb8d62ed
+ 
 
 - **[Asp.Net Mvc ile Teknoji Sözlük Uygulaması Geliştirme](https://github.com/omerfarukkpala/MvcBlogProject)**
   
@@ -91,7 +98,7 @@ https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/639a8623-f5c5-
 
 https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/ac124791-030b-467a-bb8c-d3ca18776a41
 
-- **[Asp.Net Mvc ile Teknoji Sözlük Uygulaması Geliştirme](https://github.com/omerfarukkpala/MvcBlogProject)**
+- **[MVC ile Dinamik Cv Sitesi](https://github.com/omerfarukkpala/CvProject)**
   
   - MVC ile Dinamik Cv Sitesi -- >(https://github.com/omerfarukkpala/CvProject)
 
