@@ -66,6 +66,11 @@ https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/01ae95f9-eac5-
   - Build a Stock Application Using Entity Framework -- >(https://github.com/omerfarukkpala/WebMVCStockApp)
 ![image](https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/45121331-8ece-4ea5-ba4b-60666e501663)
 
+- **[Developing-Applications-C-Sharp](https://github.com/omerfarukkpala/Developing-Applications-C-Sharp)**
+  
+  - Developing-Applications-C-Sharp-- >(https://github.com/omerfarukkpala/Developing-Applications-C-Sharp)
+![image](https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/a433dfc8-495f-4f62-87b0-002f17da18cb)
+
 
 <h3 align="left">My Front-End Projects : </h3>
 
@@ -126,8 +131,4 @@ https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/639a8623-f5c5-
 
 
 
-- **[Developing-Applications-C-Sharp](https://github.com/omerfarukkpala/Developing-Applications-C-Sharp)**
-  
-  - Developing-Applications-C-Sharp-- >(https://github.com/omerfarukkpala/Developing-Applications-C-Sharp)
-![image](https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/a433dfc8-495f-4f62-87b0-002f17da18cb)
 
