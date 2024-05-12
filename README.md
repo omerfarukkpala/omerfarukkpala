@@ -26,6 +26,47 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-bottom: 5px;" /></a>
 </p>
 
+
+   
+ <h3 align="left">My Full-Stack Projects : </h3>
+ 
+- **[Asp.Net Core Portfolio Sitesi](https://github.com/omerfarukkpala/OFPortfolio)**
+  
+  - Asp.Net Core Portfolio Sitesi -- >(https://github.com/omerfarukkpala/OFPortfolio)
+
+https://github.com/omerfarukkpala/OFPortfolio/assets/101570820/b57f85f0-c802-4081-bbbb-e6f6cb8d62ed
+ 
+
+- **[Asp.Net Mvc ile Teknoji Sözlük Uygulaması Geliştirme](https://github.com/omerfarukkpala/MvcBlogProject)**
+  
+  - Teknoji Sözlük Github Preview  -- >(https://github.com/omerfarukkpala/MvcBlogProject)
+
+https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/ac124791-030b-467a-bb8c-d3ca18776a41
+
+- **[MVC ile Dinamik Cv Sitesi](https://github.com/omerfarukkpala/CvProject)**
+  
+  - MVC ile Dinamik Cv Sitesi -- >(https://github.com/omerfarukkpala/CvProject)
+
+https://github.com/omerfarukkpala/CvProject/assets/101570820/1362b7c2-4652-42bc-bc23-7454c2106e59
+
+- **[Asp.Net Mvc ile Katmanlı Mimaride Blog Projesi](https://github.com/omerfarukkpala/MvcBlogProject)**
+  
+  - Asp.Net Mvc ile Katmanlı Mimaride Blog Projesi -- >(https://github.com/omerfarukkpala/MvcBlogProject)
+
+https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/01ae95f9-eac5-47bb-9eac-8226c8f464a2
+
+- **[Travel Trip Project](https://github.com/omerfarukkpala/Travel-Trip-Project)**
+  
+  - Travel Trip Project -- >(https://github.com/omerfarukkpala/Travel-Trip-Project)
+  
+![image](https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/dd60e228-80e0-406d-a9c7-5cb7ef63d558)
+
+- **[Build a Stock Application Using Entity Framework](https://github.com/omerfarukkpala/WebMVCStockApp)**
+  
+  - Build a Stock Application Using Entity Framework -- >(https://github.com/omerfarukkpala/WebMVCStockApp)
+![image](https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/45121331-8ece-4ea5-ba4b-60666e501663)
+
+
 <h3 align="left">My Front-End Projects : </h3>
 
 - **[Book Store - Kitap Dünyası](https://book-store-vert-five.vercel.app/)**
@@ -82,44 +123,6 @@ https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/e155acfb-2ba7-
 https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/639a8623-f5c5-4b62-be9c-07f3e18ddcb6
 
 
-   
- <h3 align="left">My Full-Stack Projects : </h3>
- 
-- **[Asp.Net Core Portfolio Sitesi](https://github.com/omerfarukkpala/OFPortfolio)**
-  
-  - Asp.Net Core Portfolio Sitesi -- >(https://github.com/omerfarukkpala/OFPortfolio)
-
-https://github.com/omerfarukkpala/OFPortfolio/assets/101570820/b57f85f0-c802-4081-bbbb-e6f6cb8d62ed
- 
-
-- **[Asp.Net Mvc ile Teknoji Sözlük Uygulaması Geliştirme](https://github.com/omerfarukkpala/MvcBlogProject)**
-  
-  - Teknoji Sözlük Github Preview  -- >(https://github.com/omerfarukkpala/MvcBlogProject)
-
-https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/ac124791-030b-467a-bb8c-d3ca18776a41
-
-- **[MVC ile Dinamik Cv Sitesi](https://github.com/omerfarukkpala/CvProject)**
-  
-  - MVC ile Dinamik Cv Sitesi -- >(https://github.com/omerfarukkpala/CvProject)
-
-https://github.com/omerfarukkpala/CvProject/assets/101570820/1362b7c2-4652-42bc-bc23-7454c2106e59
-
-- **[Asp.Net Mvc ile Katmanlı Mimaride Blog Projesi](https://github.com/omerfarukkpala/MvcBlogProject)**
-  
-  - Asp.Net Mvc ile Katmanlı Mimaride Blog Projesi -- >(https://github.com/omerfarukkpala/MvcBlogProject)
-
-https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/01ae95f9-eac5-47bb-9eac-8226c8f464a2
-
-- **[Travel Trip Project](https://github.com/omerfarukkpala/Travel-Trip-Project)**
-  
-  - Travel Trip Project -- >(https://github.com/omerfarukkpala/Travel-Trip-Project)
-  
-![image](https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/dd60e228-80e0-406d-a9c7-5cb7ef63d558)
-
-- **[Build a Stock Application Using Entity Framework](https://github.com/omerfarukkpala/WebMVCStockApp)**
-  
-  - Build a Stock Application Using Entity Framework -- >(https://github.com/omerfarukkpala/WebMVCStockApp)
-![image](https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/45121331-8ece-4ea5-ba4b-60666e501663)
 
 
 
