@@ -37,9 +37,9 @@
 https://github.com/omerfarukkpala/OFPortfolio/assets/101570820/b57f85f0-c802-4081-bbbb-e6f6cb8d62ed
  
 
-- **[Asp.Net Mvc ile Teknoji Sözlük Uygulaması Geliştirme](https://github.com/omerfarukkpala/MvcBlogProject)**
+- **[Asp.Net Mvc ile Teknoji Sözlük Uygulaması Geliştirme](https://github.com/omerfarukkpala/MvcProjectCamp)**
   
-  - Teknoji Sözlük Github Preview  -- >(https://github.com/omerfarukkpala/MvcBlogProject)
+  - Teknoji Sözlük Github Preview  -- >(https://github.com/omerfarukkpala/MvcProjectCamp)
 
 https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/ac124791-030b-467a-bb8c-d3ca18776a41
 
