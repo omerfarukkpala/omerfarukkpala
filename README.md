@@ -78,8 +78,8 @@ https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/01ae95f9-eac5-
 https://github.com/user-attachments/assets/aedaf109-f52e-4e72-b159-19151c8bfd18
 
 - **[Kodluyoruz - BBB Sunum (React)](https://bbb-js-react-bootcamp.vercel.app/)**
-  - [GitHub Repo] https://bbb-js-react-bootcamp.vercel.app/
-
+  - [GitHub Repo] https://github.com/omerfarukkpala/BBB-React-Bootcamp 
+  - Explore the live version of the project https://bbb-js-react-bootcamp.vercel.app/
 - **[Book Store - Kitap Dünyası (React)](https://book-store-vert-five.vercel.app/)**
   - Explore the live version of the project [here](https://book-store-vert-five.vercel.app/). --> https://book-store-vert-five.vercel.app
   - [GitHub Repo](https://github.com/omerfarukkpala/Book-Store) --> https://github.com/omerfarukkpala/Book-Store
