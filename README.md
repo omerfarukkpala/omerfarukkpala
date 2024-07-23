@@ -74,12 +74,13 @@ https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/01ae95f9-eac5-
 
 <h3 align="left">My Front-End Projects : </h3>
 
-
-https://github.com/user-attachments/assets/aedaf109-f52e-4e72-b159-19151c8bfd18
-
 - **[Kodluyoruz - BBB Sunum (React)](https://bbb-js-react-bootcamp.vercel.app/)**
   - [GitHub Repo] https://github.com/omerfarukkpala/BBB-React-Bootcamp 
   - Explore the live version of the project https://bbb-js-react-bootcamp.vercel.app/
+    
+https://github.com/user-attachments/assets/aedaf109-f52e-4e72-b159-19151c8bfd18
+
+
 - **[Book Store - Kitap Dünyası (React)](https://book-store-vert-five.vercel.app/)**
   - Explore the live version of the project [here](https://book-store-vert-five.vercel.app/). --> https://book-store-vert-five.vercel.app
   - [GitHub Repo](https://github.com/omerfarukkpala/Book-Store) --> https://github.com/omerfarukkpala/Book-Store
@@ -88,25 +89,20 @@ https://github.com/user-attachments/assets/aedaf109-f52e-4e72-b159-19151c8bfd18
 https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/64faa504-fab2-45cc-8806-a5a6eb3457d7
 
 
-    
-
 - **[Trend Store](https://store-project-zeta.vercel.app/)**
   - Check out the live version of the project [here](https://store-project-zeta.vercel.app/).
   - Trend Store Repository                                    -- > (https://github.com/omerfarukkpala/StoreProject)
 
-
 https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/3501613d-fcd2-4cb1-ad11-2d882a6da638
-
-
-
-
-
-https://github.com/user-attachments/assets/d1ce8be4-ea98-48d2-b18e-c5a60bce5d6d
 
 
 - **[Bursa Tarım Market](https://tarim-market.vercel.app/)**
   - [GitHub Repo](https://github.com/omerfarukkpala/BBB-React-Bootcamp)
   - Explore the live version of the project [here](https://tarim-market.vercel.app/). --> https://tarim-market.vercel.app/
+https://github.com/user-attachments/assets/d1ce8be4-ea98-48d2-b18e-c5a60bce5d6d
+
+
+
 
 - **[Cars Model](https://cars-model-website.vercel.app/)**
   - Live [Cars Model](https://cars-model-website.vercel.app/)
