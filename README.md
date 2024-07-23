@@ -100,7 +100,10 @@ https://github.com/omerfarukkpala/omerfarukkpala/assets/101570820/3501613d-fcd2-
   - [GitHub Repo](https://github.com/omerfarukkpala/BBB-React-Bootcamp)
   - Explore the live version of the project [here](https://tarim-market.vercel.app/). --> https://tarim-market.vercel.app/
     
-https://github.com/user-attachments/assets/d1ce8be4-ea98-48d2-b18e-c5a60bce5d6d
+
+
+
+https://github.com/user-attachments/assets/3e0b93dc-b55a-4e54-8a9c-7b9828ee59ba
 
 
 
