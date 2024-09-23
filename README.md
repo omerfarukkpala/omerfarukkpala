@@ -35,7 +35,12 @@
   - Asp.Net Core Portfolio Sitesi -- >(https://github.com/omerfarukkpala/OFPortfolio)
 
 https://github.com/omerfarukkpala/OFPortfolio/assets/101570820/b57f85f0-c802-4081-bbbb-e6f6cb8d62ed
- 
+
+ - **[Pala Otel Project](https://github.com/omerfarukkpala/OtelProject)**
+  
+  - Pala Otel Project Sitesi -- >(https://github.com/omerfarukkpala/OtelProject)
+
+https://github.com/user-attachments/assets/8ccb584b-175a-4c75-adc3-ab44eafe2540
 
 - **[Asp.Net Mvc ile Teknoji Sözlük Uygulaması Geliştirme](https://github.com/omerfarukkpala/MvcProjectCamp)**
   
