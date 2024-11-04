@@ -36,6 +36,12 @@
 
 https://github.com/omerfarukkpala/OFPortfolio/assets/101570820/b57f85f0-c802-4081-bbbb-e6f6cb8d62ed
 
+- **[Asp.Net Core Restoran  Rezervasyon Projesi ](https://github.com/omerfarukkpala/SignalRestaurant)**
+  
+  - Asp.Net Core Restoran  Rezervasyon Projesi -- >(https://github.com/omerfarukkpala/SignalRestaurant)
+https://github.com/user-attachments/assets/62fde126-543c-46b1-8d70-218fb273539f
+
+
  - **[Pala Otel Project](https://github.com/omerfarukkpala/OtelProject)**
   
    - Pala Otel Project Sitesi -- >(https://github.com/omerfarukkpala/OtelProject)
