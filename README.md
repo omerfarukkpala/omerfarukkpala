@@ -10,7 +10,7 @@ lines=Software+Developer"
       alt="Typing SVG"
     />
   </a>
-</h3         
+    </h3>         
 </div>        
 <h3 align="left"> <img src="https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=700&size=30&pause=750&color=007bff&width=435&lines=Connect+with+me :" alt="Typing SVG"> 
 <p align="left">
