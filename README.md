@@ -8,7 +8,7 @@
 <p align="left">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=700&size=30&pause=750&color=007BFF&width=435&lines=Connect+with+me+:"
+      src="https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=700&size=30&pause=750&color=007BFF&width=435&lines=Connect+with+me+"
       alt="Connect with me"
 />
   </a>
@@ -18,8 +18,8 @@
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
-      height="100"
-      width="100"
+      height="50"
+      width="50"
     />
   </a>
 </p>
