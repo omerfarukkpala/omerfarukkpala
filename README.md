@@ -24,7 +24,6 @@
   </a>
 </p>
 
-<h3 align="left"><img src="https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=700&size=30&pause=750&color=007bff&width=435&lines=Languages +and +Tools :" alt="Typing SVG"></h3>
 <p align="left">
    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin-bottom: 5px;" /></a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="margin-bottom: 5px;" /></a
