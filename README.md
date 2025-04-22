@@ -14,10 +14,7 @@
   </a>
 </p>
 <p align="left">
-  <a href="https://git.io/typing-svg">
     <a href="https://linkedin.com/in/omerfarukpala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omerfarukpala" height="30" width="40" style="margin-bottom: 5px;" /></a>
-
-  </a>
 </p>
 
 <h3 align="left"><img src="https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=700&size=30&pause=750&color=007bff&width=435&lines=Languages +and +Tools :" alt="Typing SVG"></h3>
